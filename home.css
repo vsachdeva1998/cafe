@@ -1,0 +1,11 @@
+#demo{
+			text-decoration: none;
+			color: blue;
+		}
+
+		img{
+			float: left;
+		}
+		div{
+			border-style: solid;border-color: blue;padding: 20px;
+		}
